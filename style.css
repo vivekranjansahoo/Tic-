@@ -3,6 +3,12 @@ body {
     position: absolute;
     background-color: aqua;
   }
+
+  h1{
+    align-items: center;
+    text-align: center;
+    margin-left: 450px;
+  }
   .row {
     display: flex;
   }
@@ -16,3 +22,10 @@ body {
     font-size: 30px;
     cursor: pointer;
   }
+
+  .container{
+    margin-left:32rem;
+    margin-top: 5rem;
+  }
+
+
